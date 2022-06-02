@@ -1,0 +1,3 @@
+la udf primero se debe añadir a excel, para ello el proceso es Archivo > Opciones > Complementos > Administrar: Complementos de Excel> Ir > Examinar > (ir a la ruta donde se guarda el complento, seleccionarlo y dar click en abrir ) > seleccionar el checkbox para habilutarlo > Aceptar
+
+La función =SIN_ACENTOS("texto") recibe una cadena de texto que tenga tildes y retorna la información sin tildes, ejemplo: =SIN_ACENTOS("Sánchez") => 'Sanchez'
